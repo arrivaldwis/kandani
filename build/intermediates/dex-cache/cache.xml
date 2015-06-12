@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-5691f5303e7e81bc0fad28d794b194be9eeb9deb.jar" />
+    </item>
+    <item
+        jar="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\pre-dexed\debug\classes-9d83d0b5d05b0f71f97ac668e27f7bf743c5838e.jar" />
+    </item>
+    <item
+        jar="G:\Doc. Arrival\Software\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-725151ad1df1afd3630934a7b25f2dc0b355e6e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6aaf52b8d6b8279df4de274463454ca11944fec6">
+        <dex dex="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\pre-dexed\debug\classes-ed95d9858ed68d2a12d38730e4061477d499d753.jar" />
+    </item>
+    <item
+        jar="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\pre-dexed\debug\classes-3533c2c844eda7f8ad1bbb1e7a853becea21b7c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\exploded-aar\com.github.amlcurran.showcaseview\library\5.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8b3d9a7b348d8bcfb4d740dfaf70bc374cdae9d6">
+        <dex dex="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\pre-dexed\debug\classes-113c28af6d77b17b2916b29c9fd7520c2349d488.jar" />
+    </item>
+    <item
+        jar="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\exploded-aar\com.bignerdranch.android\recyclerview-multiselect\0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8a90606ee73178bb9b1a336dc36ae3ec25ad33ea">
+        <dex dex="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\pre-dexed\debug\classes-d25a3d12a71d9c4bf79e0fcaa914abdbb7f52f07.jar" />
+    </item>
+    <item
+        jar="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e0b0c35d02308b270015a74cada4887e2e49b889">
+        <dex dex="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\pre-dexed\debug\classes-1b5a65b391ff6a4068e47c0221fb7f4ccffd7675.jar" />
+    </item>
+    <item
+        jar="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\pre-dexed\debug\classes-571394011dc631870e41dfcd392ea5e428f54b25.jar" />
+    </item>
+    <item
+        jar="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.9.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2b8a750df2a5d485d0c40b379b44371c5e6d98d">
+        <dex dex="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\pre-dexed\debug\classes-9603586e5853e6c56775d87a51b715434700843a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\ArrivalDwiS\Documents\workspace\Kandani-master\app\build\intermediates\pre-dexed\debug\classes-2a6835f591822debea9f53b9e56a8aa9b01d25a2.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,59 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="com.odt.kandani" >
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application
+        android:allowBackup="true"
+        tools:replace="android:icon,android:theme"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <activity android:name=".View.IntroActivity"
+                  android:theme="@android:style/Theme.Black.NoTitleBar" >
+        </activity>
+
+        <activity
+            android:name=".View.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".View.CameraActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+
+        <activity android:name=".View.AboutActivity"/>
+
+        <activity android:name=".View.ImageviewActivity"/>
+
+        <activity android:name=".View.LicensesActivity"/>
+
+        <activity android:name=".View.ReminderAddActivity"
+                  android:label="@string/title_activity_add_reminder"/>
+
+        <activity android:name=".View.ReminderEditActivity"
+                  android:label="@string/title_activity_edit_reminder"/>
+
+        <receiver android:name=".Components.AlarmReceiver"/>
+
+        <receiver android:name=".Components.BootReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>

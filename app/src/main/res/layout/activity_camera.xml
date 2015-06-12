@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:background="@color/primary">
+
+    <LinearLayout
+        android:id="@+id/camera_preview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"/>
+
+    <LinearLayout
+        android:id="@+id/buttonsLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical" >
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/button_ChangeCamera"
+            android:layout_width="72dp"
+            android:layout_height="wrap_content"
+            fab:fab_icon="@drawable/ic_switch30"
+            fab:fab_colorNormal="@color/accent"
+            fab:fab_colorPressed="@color/fab_pressed"
+            app:fab_size="normal"
+            android:layout_marginTop="20dp"/>
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/button_capture"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            fab:fab_icon="@drawable/ic_camera3_w"
+            fab:fab_colorNormal="@color/orange_400"
+            fab:fab_colorPressed="@color/orange_800"
+            app:fab_size="normal"
+            android:layout_marginTop="50dp"/>
+    </LinearLayout>
+</LinearLayout>
